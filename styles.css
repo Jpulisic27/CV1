@@ -171,6 +171,10 @@ body{
         font-family: 'Poppins', sans-serif;
     }
 
+    .same-boxes {
+        margin-bottom: 10px;
+    }
+
     .box-1 {
     
         top: 80px;
