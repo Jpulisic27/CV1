@@ -29,6 +29,7 @@ body{
 }
 
 .same-boxes {
+    padding-top: 70;
     margin-top: 70px;
     background-color: lightgray;
     padding: 15px;
